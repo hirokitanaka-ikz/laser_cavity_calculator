@@ -8,3 +8,7 @@ Python version 3.9.6
 2. Install dependencies
    ```bash
    pip install -r requirements.txt
+
+## Run program
+```bash
+python main.py
